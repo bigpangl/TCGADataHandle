@@ -1,0 +1,15 @@
+TCGA
+__pycache__
+*.zip
+.idea
+*.json
+*.gz
+*.tsv
+*.log
+VENV
+*.spec
+build
+dist/
+__MACOSX
+combine.txt
+tcga

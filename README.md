@@ -11,3 +11,8 @@
 # 日志输出
 
 日志默认输出在log.log 中
+
+# 示例
+
+![示例](./pics/show.png)
+gdc 下载目录中需要有MANIFEST.txt 文件存在

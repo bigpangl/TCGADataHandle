@@ -18,3 +18,4 @@ tcga
 *.rar
 split_mirnaid
 split_mirnaid_2
+.ipynb_checkpoints

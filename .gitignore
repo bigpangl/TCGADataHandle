@@ -13,3 +13,8 @@ dist/
 __MACOSX
 combine.txt
 tcga
+
+*.csv
+*.rar
+split_mirnaid
+split_mirnaid_2
